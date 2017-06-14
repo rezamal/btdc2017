@@ -7,10 +7,9 @@
     android:layout_height="match_parent"
     tools:context="com.ilham.rezamal.bdt2017.MainActivity">
 
-    <TextView
+    <Button
+        android:id="@+id/login"
+        android:text="login"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Hello World!"
-        android:textSize="100sp"
-        android:layout_marginStart="100dp"
+        android:layout_height="wrap_content"/>
 </LinearLayout>
